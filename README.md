@@ -1,4 +1,4 @@
-# ✈️ AI Trip Planner (v2.0 Microservice Refactor)
+# ✈️ Shared Planner (AI Trip Planner | v2.0 Microservice Refactor)
 
 > **Evolution Note:** This repository has been completely refactored from a file-based monolithic script (v1.0) into a scalable, containerized **Agent Platform**.
 > The new architecture adopts a **Unified Container Strategy**—bundling the React frontend and Flask backend into a single deployable unit—while offloading long-term memory to a dedicated **Weaviate** vector database service.
